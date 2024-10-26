@@ -1,0 +1,17 @@
+E:\FPT\FA24\PRN221\Assigment_group\Repository\bin\Debug\net8.0\Repositories.deps.json
+E:\FPT\FA24\PRN221\Assigment_group\Repository\bin\Debug\net8.0\Repositories.dll
+E:\FPT\FA24\PRN221\Assigment_group\Repository\bin\Debug\net8.0\Repositories.pdb
+E:\FPT\FA24\PRN221\Assigment_group\Repository\bin\Debug\net8.0\DataAccess.dll
+E:\FPT\FA24\PRN221\Assigment_group\Repository\bin\Debug\net8.0\Model.dll
+E:\FPT\FA24\PRN221\Assigment_group\Repository\bin\Debug\net8.0\DataAccess.pdb
+E:\FPT\FA24\PRN221\Assigment_group\Repository\bin\Debug\net8.0\Model.pdb
+E:\FPT\FA24\PRN221\Assigment_group\Repository\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+E:\FPT\FA24\PRN221\Assigment_group\Repository\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\FA24\PRN221\Assigment_group\Repository\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+E:\FPT\FA24\PRN221\Assigment_group\Repository\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+E:\FPT\FA24\PRN221\Assigment_group\Repository\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+E:\FPT\FA24\PRN221\Assigment_group\Repository\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+E:\FPT\FA24\PRN221\Assigment_group\Repository\obj\Debug\net8.0\Repositories.dll
+E:\FPT\FA24\PRN221\Assigment_group\Repository\obj\Debug\net8.0\refint\Repositories.dll
+E:\FPT\FA24\PRN221\Assigment_group\Repository\obj\Debug\net8.0\Repositories.pdb
+E:\FPT\FA24\PRN221\Assigment_group\Repository\obj\Debug\net8.0\ref\Repositories.dll

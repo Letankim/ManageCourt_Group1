@@ -1,0 +1,14 @@
+E:\FPT\FA24\PRN221\Assigment_group\ManageCourt\bin\Debug\net8.0\ManageCourtLib.deps.json
+E:\FPT\FA24\PRN221\Assigment_group\ManageCourt\bin\Debug\net8.0\ManageCourtLib.dll
+E:\FPT\FA24\PRN221\Assigment_group\ManageCourt\bin\Debug\net8.0\ManageCourtLib.pdb
+E:\FPT\FA24\PRN221\Assigment_group\ManageCourt\obj\Debug\net8.0\ManageCourtLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\FA24\PRN221\Assigment_group\ManageCourt\obj\Debug\net8.0\ManageCourtLib.AssemblyInfoInputs.cache
+E:\FPT\FA24\PRN221\Assigment_group\ManageCourt\obj\Debug\net8.0\ManageCourtLib.AssemblyInfo.cs
+E:\FPT\FA24\PRN221\Assigment_group\ManageCourt\obj\Debug\net8.0\ManageCourtLib.csproj.CoreCompileInputs.cache
+E:\FPT\FA24\PRN221\Assigment_group\ManageCourt\obj\Debug\net8.0\ManageCourtLib.dll
+E:\FPT\FA24\PRN221\Assigment_group\ManageCourt\obj\Debug\net8.0\refint\ManageCourtLib.dll
+E:\FPT\FA24\PRN221\Assigment_group\ManageCourt\obj\Debug\net8.0\ManageCourtLib.pdb
+E:\FPT\FA24\PRN221\Assigment_group\ManageCourt\obj\Debug\net8.0\ref\ManageCourtLib.dll
+E:\FPT\FA24\PRN221\Assigment_group\ManageCourt\bin\Debug\net8.0\ManageCourtLib.runtimeconfig.json
+E:\FPT\FA24\PRN221\Assigment_group\ManageCourt\obj\Debug\net8.0\ManageCourtLib.csproj.AssemblyReference.cache
+E:\FPT\FA24\PRN221\Assigment_group\ManageCourt\obj\Debug\net8.0\ManageCourtLib.genruntimeconfig.cache
