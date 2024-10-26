@@ -152,7 +152,8 @@
               "RelativeToolTip": "Model.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-16T07:01:11.75Z"
+              "WhenOpened": "2024-10-16T07:01:11.75Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -303,7 +304,8 @@
               "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\MainWindow.xaml",
               "RelativeToolTip": "..\\WPF_ManageCourt\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-08T20:02:52.024Z"
+              "WhenOpened": "2024-10-08T20:02:52.024Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -313,9 +315,10 @@
               "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\App.xaml.cs",
               "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\App.xaml.cs",
               "RelativeToolTip": "..\\WPF_ManageCourt\\App.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCcAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwCcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T19:54:10.25Z"
+              "WhenOpened": "2024-10-08T19:54:10.25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -377,9 +380,10 @@
               "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\Utils\\PasswordBoxHelper.cs",
               "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Utils\\PasswordBoxHelper.cs",
               "RelativeToolTip": "..\\WPF_ManageCourt\\Utils\\PasswordBoxHelper.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA2wB8AAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwB8AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T08:04:16.014Z"
+              "WhenOpened": "2024-10-09T08:04:16.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -389,9 +393,10 @@
               "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\Utils\\BoolToStatusConverter.cs",
               "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Utils\\BoolToStatusConverter.cs",
               "RelativeToolTip": "..\\WPF_ManageCourt\\Utils\\BoolToStatusConverter.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBkAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wBkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T08:21:11.734Z"
+              "WhenOpened": "2024-10-09T08:21:11.734Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -401,9 +406,10 @@
               "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\ViewModel\\BaseModel.cs",
               "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\ViewModel\\BaseModel.cs",
               "RelativeToolTip": "..\\WPF_ManageCourt\\ViewModel\\BaseModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T06:18:39.743Z"
+              "WhenOpened": "2024-10-10T06:18:39.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -415,7 +421,8 @@
               "RelativeToolTip": "..\\WPF_ManageCourt\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAD4vxEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T19:54:32.444Z"
+              "WhenOpened": "2024-10-08T19:54:32.444Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -439,7 +446,8 @@
               "RelativeToolTip": "..\\WPF_ManageCourt\\Controls\\SideBarControl.xaml.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAWwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T07:02:32.085Z"
+              "WhenOpened": "2024-10-09T07:02:32.085Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -486,7 +494,8 @@
               "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Controls\\Navbar.xaml",
               "RelativeToolTip": "..\\WPF_ManageCourt\\Controls\\Navbar.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-09T03:46:11.216Z"
+              "WhenOpened": "2024-10-09T03:46:11.216Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -498,7 +507,8 @@
               "RelativeToolTip": "..\\WPF_ManageCourt\\Controls\\Navbar.xaml.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAiwBgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T03:49:27.29Z"
+              "WhenOpened": "2024-10-09T03:49:27.29Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -510,7 +520,8 @@
               "RelativeToolTip": "..\\WPF_ManageCourt\\Controls\\Header.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T04:23:07.324Z"
+              "WhenOpened": "2024-10-09T04:23:07.324Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -520,7 +531,8 @@
               "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAjwCcAAAAEAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T20:01:34.37Z"
+              "WhenOpened": "2024-10-08T20:01:34.37Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -532,7 +544,8 @@
               "RelativeToolTip": "..\\WPF_ManageCourt\\WPF_ManageCourt.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-09T03:58:57.619Z"
+              "WhenOpened": "2024-10-09T03:58:57.619Z",
+              "EditorCaption": ""
             }
           ]
         }
