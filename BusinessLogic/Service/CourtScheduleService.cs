@@ -1,4 +1,5 @@
 ﻿using BusinessLogic.Interface;
+using DataAccess.DAO;
 using Model;
 using Repositories.Interface;
 using System.Collections.Generic;
@@ -38,6 +39,10 @@ namespace BusinessLogic.Service
         public async Task DeleteScheduleAsync(int scheduleId)
         {
             await _courtScheduleRepository.DeleteScheduleAsync(scheduleId);
+        }
+        public async Task<(int availableCount, int bookedCount)> GetAvailabilityStatisticsAsync(DateOnly startDate, DateOnly endDate)
+        {
+            return await _courtScheduleRepository.GetAvailabilityStatisticsAsync(startDate, endDate);
         }
     }
 }

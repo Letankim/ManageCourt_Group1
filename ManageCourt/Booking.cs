@@ -11,11 +11,11 @@ public partial class Booking
 
     public int? CourtId { get; set; }
 
-    public DateOnly BookingDate { get; set; }
+    public DateOnly BookingDate { get; set; }//lấy
 
     public string TimeSlot { get; set; } = null!;
 
-    public decimal TotalPrice { get; set; }
+    public decimal TotalPrice { get; set; } //lấy
 
     public string? Note { get; set; }
 
@@ -27,9 +27,9 @@ public partial class Booking
 
     public string PaymentMethod { get; set; } = null!;
 
-    public string? PaymentStatus { get; set; }
+    public string? PaymentStatus { get; set; } //lấy
 
-    public string? BookingStatus { get; set; }
+    public string? BookingStatus { get; set; } //lấy
 
     public virtual ICollection<BookingAccessory> BookingAccessories { get; set; } = new List<BookingAccessory>();
 

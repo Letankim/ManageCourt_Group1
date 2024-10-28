@@ -38,5 +38,16 @@ namespace DataAccess.DAO
                 await _context.SaveChangesAsync();
             }
         }
+        public async Task<(int availableCount, int bookedCount)> GetAvailabilityStatisticsAsync(DateOnly startDate, DateOnly endDate)
+        {
+            var schedules = await _context.CourtSchedules
+                .Where(schedule => schedule.Date >= startDate && schedule.Date <= endDate)
+                .ToListAsync();
+
+            int availableCount = schedules.Count(s => s.IsAvailable == true);
+            int bookedCount = schedules.Count(s => s.IsAvailable == false);
+
+            return (availableCount, bookedCount);
+        }
     }
 }

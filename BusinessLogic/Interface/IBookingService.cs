@@ -11,5 +11,8 @@ namespace BusinessLogic.Interface
         Task AddBookingAsync(Booking item);
         Task UpdateBookingAsync(Booking item);
         Task DeleteBookingAsync(int id);
+        Task<Dictionary<DateOnly, decimal>> StatisticsAsync(DateOnly startDay, DateOnly endDay);
+        Task<Dictionary<DateOnly, (int Confirmed, int NoShow, int Cancelled)>> StatisticStatus(DateOnly startDay, DateOnly endDay);
+        Task<Dictionary<DateOnly, (int AfterPlay, int Online)>> StatisticPayment(DateOnly startDay, DateOnly endDay);
     }
 }

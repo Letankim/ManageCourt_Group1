@@ -19,6 +19,9 @@
     <Compile Update="Controls\SideBarControl.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="DashBoard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="UserView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -31,6 +34,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Controls\Navbar.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DashBoard.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">

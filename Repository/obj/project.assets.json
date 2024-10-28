@@ -2786,23 +2786,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Users\\thang\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\Repository\\Repositories.csproj",
+      "projectUniqueName": "D:\\PRN221_Project\\ManageCourt_Group1\\Repository\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\Repository\\Repositories.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\Repository\\obj\\",
+      "projectPath": "D:\\PRN221_Project\\ManageCourt_Group1\\Repository\\Repositories.csproj",
+      "packagesPath": "C:\\Users\\thang\\.nuget\\packages\\",
+      "outputPath": "D:\\PRN221_Project\\ManageCourt_Group1\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\thang\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2818,11 +2818,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\FPT\\FA24\\PRN221\\Assigment_group\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\DataAccess\\DataAccess.csproj"
+            "D:\\PRN221_Project\\ManageCourt_Group1\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\PRN221_Project\\ManageCourt_Group1\\DataAccess\\DataAccess.csproj"
             },
-            "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\Model.csproj": {
-              "projectPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\Model.csproj"
+            "D:\\PRN221_Project\\ManageCourt_Group1\\ManageCourt\\Model.csproj": {
+              "projectPath": "D:\\PRN221_Project\\ManageCourt_Group1\\ManageCourt\\Model.csproj"
             }
           }
         }
@@ -2857,7 +2857,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

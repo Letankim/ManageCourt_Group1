@@ -28,7 +28,7 @@
 
         <local:Header Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Height="auto" VerticalAlignment="Top"/>
 
-        <local:SidebarControl Grid.Row="1" Grid.Column="0" Height="auto" VerticalAlignment="Stretch"/>
+        <local:SidebarControl Grid.Row="1" Grid.Column="0" Height="auto" VerticalAlignment="Stretch" Loaded="SidebarControl_Loaded"/>
         <Grid Grid.Row="1" Grid.Column="1" Margin="10">
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"/>

@@ -43,5 +43,17 @@ namespace Repositories
                 await _bookingDAO.DeleteBookingAsync(bookingId);
             }
         }
+        public async Task<Dictionary<DateOnly, decimal>> StatisticsAsync(DateOnly startDay, DateOnly endDay)
+        {
+            return await _bookingDAO.StatisticsAsync(startDay, endDay);
+        }
+        public async Task<Dictionary<DateOnly, (int Confirmed, int NoShow, int Cancelled)>> StatisticStatus(DateOnly startDay, DateOnly endDay)
+        {
+            return await _bookingDAO.StatisticStatus(startDay, endDay);
+        }
+        public async Task<Dictionary<DateOnly, (int AfterPlay, int Online)>> StatisticPayment(DateOnly startDay, DateOnly endDay)
+        {
+            return await _bookingDAO.StatisticPayment(startDay, endDay);
+        }
     }
 }

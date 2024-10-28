@@ -11,5 +11,6 @@ namespace Repositories.Interface
         Task AddScheduleAsync(CourtSchedule schedule);
         Task UpdateScheduleAsync(CourtSchedule schedule);
         Task DeleteScheduleAsync(int scheduleId);
+        Task<(int availableCount, int bookedCount)> GetAvailabilityStatisticsAsync(DateOnly startDate, DateOnly endDate);
     }
 }

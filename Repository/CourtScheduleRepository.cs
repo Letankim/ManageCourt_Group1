@@ -43,5 +43,9 @@ namespace Repositories
                 await _courtScheduleDAO.DeleteScheduleAsync(scheduleId);
             }
         }
+        public async Task<(int availableCount, int bookedCount)> GetAvailabilityStatisticsAsync(DateOnly startDate, DateOnly endDate)
+        {
+           return  await _courtScheduleDAO.GetAvailabilityStatisticsAsync(startDate, endDate);
+        }
     }
 }
