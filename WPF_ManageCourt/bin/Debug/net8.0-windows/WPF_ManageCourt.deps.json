@@ -12,6 +12,7 @@
           "DataAccess": "1.0.0",
           "EPPlus": "7.4.1",
           "MaterialDesignColors": "3.1.0",
+          "MaterialDesignThemes": "5.1.0",
           "MaterialDesignThemes.Wpf": "1.0.1",
           "Model": "1.0.0",
           "Repositories": "1.0.0"
@@ -98,17 +99,23 @@
           }
         }
       },
+      "MaterialDesignThemes/5.1.0": {
+        "dependencies": {
+          "MaterialDesignColors": "3.1.0",
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.39"
+        },
+        "runtime": {
+          "lib/net8.0/MaterialDesignThemes.Wpf.dll": {
+            "assemblyVersion": "5.1.0.0",
+            "fileVersion": "5.1.0.0"
+          }
+        }
+      },
       "MaterialDesignThemes.Wpf/1.0.1": {
         "dependencies": {
           "MaterialDesignColors": "3.1.0",
           "Microsoft.CSharp": "4.6.0",
           "System.Data.DataSetExtensions": "4.6.0-preview3.19128.7"
-        },
-        "runtime": {
-          "lib/netcoreapp3.0/MaterialDesignThemes.Wpf.dll": {
-            "assemblyVersion": "1.0.1.0",
-            "fileVersion": "1.0.1.0"
-          }
         }
       },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
@@ -574,6 +581,14 @@
         }
       },
       "Microsoft.Win32.SystemEvents/7.0.0": {},
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+        "runtime": {
+          "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.39.4716"
+          }
+        }
+      },
       "Newtonsoft.Json/13.0.3": {
         "runtime": {
           "lib/net6.0/Newtonsoft.Json.dll": {
@@ -807,6 +822,13 @@
       "sha512": "sha512-J2mpZBWx0wArrMCK8E0Cqfsy+Wh3iRDVnznp5/84B1KcnTKI9u9Pyt2zN0oSQGsa6NhvwdUErbhE3jJd6iRTxw==",
       "path": "materialdesigncolors/3.1.0",
       "hashPath": "materialdesigncolors.3.1.0.nupkg.sha512"
+    },
+    "MaterialDesignThemes/5.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k5lO0NqhExrCLnFWnapI+a2XvOOm/Mwz92GwUq4CvNrahMMPx9puALE8VJlLNeNxUYjWf2+PAKPGpmr1u1QDfg==",
+      "path": "materialdesignthemes/5.1.0",
+      "hashPath": "materialdesignthemes.5.1.0.nupkg.sha512"
     },
     "MaterialDesignThemes.Wpf/1.0.1": {
       "type": "package",
@@ -1087,6 +1109,13 @@
       "sha512": "sha512-2nXPrhdAyAzir0gLl8Yy8S5Mnm/uBSQQA7jEsILOS1MTyS7DbmV1NgViMtvV1sfCD1ebITpNwb1NIinKeJgUVQ==",
       "path": "microsoft.win32.systemevents/7.0.0",
       "hashPath": "microsoft.win32.systemevents.7.0.0.nupkg.sha512"
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8PZKqw9QOcu42xk8puY4P1+EXHL9YGOR9b7qhaYx5cILHul456H073tj99vyPcCt0W0781T9RwHqkx507ZyUpQ==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.39",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
     },
     "Newtonsoft.Json/13.0.3": {
       "type": "package",

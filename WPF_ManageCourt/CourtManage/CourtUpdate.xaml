@@ -1,0 +1,85 @@
+﻿<Window x:Class="WPF_ManageCourt.CourtManage.CourtUpdate"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_ManageCourt.CourtManage"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Update Court" Height="700" Width="800">
+    <Grid>
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <StackPanel Margin="20">
+                <!-- Court Name -->
+                <TextBlock Text="Court Name" Margin="0,5" FontWeight="Bold"/>
+                <TextBox x:Name="txtCourtName" Margin="0,5"
+                         materialDesign:HintAssist.Hint="Court Name"/>
+
+                <!-- Owner ID -->
+                <TextBlock Text="Owner ID (Optional)" Margin="0,5" FontWeight="Bold"/>
+                <TextBox x:Name="txtOwnerId" Margin="0,5"
+                         materialDesign:HintAssist.Hint="Owner ID (Optional)"/>
+
+                <!-- Location -->
+                <TextBlock Text="Location" Margin="0,5" FontWeight="Bold"/>
+                <TextBox x:Name="txtLocation" Margin="0,5"
+                         materialDesign:HintAssist.Hint="Location"/>
+
+                <!-- Description -->
+                <TextBlock Text="Description (Optional)" Margin="0,5" FontWeight="Bold"/>
+                <TextBox x:Name="txtDescription" Margin="0,5"
+                         materialDesign:HintAssist.Hint="Description (Optional)"/>
+
+                <!-- Maps Link -->
+                <TextBlock Text="Maps Link (Optional)" Margin="0,5" FontWeight="Bold"/>
+                <TextBox x:Name="txtMapsLink" Margin="0,5"
+                         materialDesign:HintAssist.Hint="Maps Link (Optional)"/>
+
+                <!-- Price Per Hour -->
+                <TextBlock Text="Price Per Hour" Margin="0,5" FontWeight="Bold"/>
+                <TextBox x:Name="txtPrice" Margin="0,5"
+                         materialDesign:HintAssist.Hint="Price Per Hour"/>
+
+                <!-- Start Time -->
+                <TextBlock Text="Start Time" Margin="0,5" FontWeight="Bold"/>
+                <materialDesign:TimePicker x:Name="timePickerStartTime" Margin="0,5"
+                                           materialDesign:HintAssist.Hint="Select Start Time"/>
+
+                <!-- End Time -->
+                <TextBlock Text="End Time" Margin="0,5" FontWeight="Bold"/>
+                <materialDesign:TimePicker x:Name="timePickerEndTime" Margin="0,5"
+                                           materialDesign:HintAssist.Hint="Select End Time"/>
+
+                <!-- Status Dropdown (Active/Inactive) -->
+                <TextBlock Text="Status" Margin="0,5" FontWeight="Bold"/>
+                <ComboBox x:Name="cmbStatus" Margin="0,5"
+                          materialDesign:HintAssist.Hint="Status">
+                    <ComboBoxItem Content="Active"/>
+                    <ComboBoxItem Content="Inactive"/>
+                </ComboBox>
+
+                <!-- Image URL -->
+                <TextBlock Text="Image URL (Optional)" Margin="0,5" FontWeight="Bold"/>
+                <TextBox x:Name="txtImageUrl" Margin="0,5"
+                         materialDesign:HintAssist.Hint="Image URL (Optional)"/>
+
+                <!-- Image File Upload -->
+                <TextBlock Text="Upload Image" Margin="0,5" FontWeight="Bold"/>
+                <Button Content="Upload Image" Margin="0,5" Width="150"
+                        Click="UploadImageButton_Click"/>
+
+                <!-- Buttons -->
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
+                    <Button Content="Save" Width="100" Margin="5"
+                            Background="{StaticResource ButtonSuccess}"
+                            Foreground="White"
+                            Click="SaveButton_Click"/>
+                    <Button Content="Cancel" Width="100" Margin="5"
+                            Background="{StaticResource ButtonDanger}"
+                            Foreground="White"
+                            Click="CancelButton_Click"/>
+                </StackPanel>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>
