@@ -55,7 +55,7 @@ namespace WPF_ManageCourt.Controls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPF_ManageCourt;component/controls/navbar.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPF_ManageCourt;V1.0.0.0;component/controls/navbar.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Controls\Navbar.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -6,10 +6,10 @@
             <ResourceDictionary.MergedDictionaries>
                 <!-- Nhúng các tài nguyên từ MaterialDesign -->
                 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
-                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+                <!--<ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />-->
                 <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.Blue.xaml" />
             </ResourceDictionary.MergedDictionaries>
-
+            
             <!-- Định nghĩa các màu sắc tùy chỉnh -->
             <SolidColorBrush x:Key="PrimaryHueLightBrush" Color="#FF6200EE"/>
             <SolidColorBrush x:Key="PrimaryHueDarkBrush" Color="#FF3700B3"/>

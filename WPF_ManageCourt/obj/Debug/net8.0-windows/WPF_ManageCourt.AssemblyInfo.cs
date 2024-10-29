@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WPF_ManageCourt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27b042c32a496426acdd381cfa292231283a09d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+435c89a24afec0f0c0f6163341ab956eaf3edef3")]
 [assembly: System.Reflection.AssemblyProductAttribute("WPF_ManageCourt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WPF_ManageCourt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

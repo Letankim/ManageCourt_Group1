@@ -97,7 +97,7 @@ namespace WPF_ManageCourt {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPF_ManageCourt;component/userview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPF_ManageCourt;V1.0.0.0;component/userview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\UserView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
