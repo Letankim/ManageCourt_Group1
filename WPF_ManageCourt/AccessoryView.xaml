@@ -160,11 +160,7 @@ Text="{Binding SelectedAccessory.Name, UpdateSourceTrigger=PropertyChanged}" />
                     <StackPanel Margin="20" Width="300">
                         <TextBlock Text="Update Accessory" FontWeight="Bold" FontSize="20" Margin="0,0,0,20"/>
 
-                        <TextBox 
-Margin="0,10" 
-                            IsEnabled="false"
-materialDesign:HintAssist.Hint="ID" 
-Text="{Binding SelectedAccessory.AccessoryId, UpdateSourceTrigger=PropertyChanged}" />
+                       
 
                         <TextBox 
                     Margin="0,10" 
@@ -177,10 +173,6 @@ Text="{Binding SelectedAccessory.AccessoryId, UpdateSourceTrigger=PropertyChange
                     materialDesign:HintAssist.Hint="Price" 
                     Text="{Binding SelectedAccessory.Price, UpdateSourceTrigger=PropertyChanged}" />
 
-                        <TextBox 
-Margin="0,10" 
-materialDesign:HintAssist.Hint="Quantity" 
-Text="{Binding SelectedAccessory.Quantity, UpdateSourceTrigger=PropertyChanged}" />
 
                         <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
                             <Button 

@@ -272,9 +272,24 @@ public class AccessoryViewModel : BaseViewModel
     }
     private bool CanExecuteAddAccessory()
     {
-        return !string.IsNullOrWhiteSpace(SelectedAccessory?.Name) && SelectedAccessory?.Price > 0;
-    }
+        // Kiểm tra xem Name có hợp lệ không
+        if (string.IsNullOrWhiteSpace(SelectedAccessory?.Name))
+        {
+            return false; // Không hợp lệ nếu tên trống
+        }
 
+        // Kiểm tra xem Price có hợp lệ không, chỉ khi nó đã được nhập
+        if (SelectedAccessory.Price != 0) // Kiểm tra xem có phải giá trị mặc định không
+        {
+            if (!decimal.TryParse(SelectedAccessory.Price.ToString(), out var price) || price <= 0)
+            {
+                ShowWarningMessage("Price must be a valid positive number."); // Hiển thị thông báo chỉ khi Price không hợp lệ
+                return false; // Không hợp lệ nếu Price không thỏa mãn điều kiện
+            }
+        }
+
+        return true; // Tất cả các điều kiện đều hợp lệ
+    }
     private void ShowDetailAccessory()
     {
         IsAddAccessoryDialogOpen = true;

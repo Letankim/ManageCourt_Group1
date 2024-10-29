@@ -3,26 +3,13 @@
   "WorkspaceRootPath": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\ManageCourt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|d:\\hoctap\\fa24\\prn221\\asm\\managecourt_group1\\wpf_managecourt\\accessoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|d:\\hoctap\\fa24\\prn221\\asm\\managecourt_group1\\wpf_managecourt\\viewmodel\\accessoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|d:\\hoctap\\fa24\\prn221\\asm\\managecourt_group1\\wpf_managecourt\\accessoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|d:\\hoctap\\fa24\\prn221\\asm\\managecourt_group1\\wpf_managecourt\\accessoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|d:\\hoctap\\fa24\\prn221\\asm\\managecourt_group1\\wpf_managecourt\\userview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|d:\\hoctap\\fa24\\prn221\\asm\\managecourt_group1\\wpf_managecourt\\userview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0633C278-5C98-4669-AAFC-E1F6E9E366BA}|..\\BusinessLogic\\BusinessLogic.csproj|d:\\hoctap\\fa24\\prn221\\asm\\managecourt_group1\\businesslogic\\interface\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6A4ECC6-A4A6-4465-B918-DD3756675C2C}|Model.csproj|d:\\hoctap\\fa24\\prn221\\asm\\managecourt_group1\\managecourt\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6A4ECC6-A4A6-4465-B918-DD3756675C2C}|Model.csproj|solutionrelative:booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|d:\\hoctap\\fa24\\prn221\\asm\\managecourt_group1\\wpf_managecourt\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +19,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 25,
+          "SelectedChildIndex": 27,
           "Children": [
             {
               "$type": "Bookmark",
@@ -136,7 +123,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\ViewModel\\UserViewModel.cs",
+              "ToolTip": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "..\\WPF_ManageCourt\\ViewModel\\UserViewModel.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAADwvyUBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:04:09.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AccessoryView.xaml",
               "DocumentMoniker": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\AccessoryView.xaml",
               "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\AccessoryView.xaml",
@@ -148,77 +148,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserView.xaml",
-              "DocumentMoniker": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\UserView.xaml",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\UserView.xaml",
-              "ToolTip": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\UserView.xaml",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\UserView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-28T07:06:27.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\ManageCourt\\Booking.cs",
-              "RelativeDocumentMoniker": "Booking.cs",
-              "ToolTip": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\ManageCourt\\Booking.cs",
-              "RelativeToolTip": "Booking.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T06:05:23.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IBookingService.cs",
-              "DocumentMoniker": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\BusinessLogic\\Interface\\IBookingService.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLogic\\Interface\\IBookingService.cs",
-              "ToolTip": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\BusinessLogic\\Interface\\IBookingService.cs",
-              "RelativeToolTip": "..\\BusinessLogic\\Interface\\IBookingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T06:04:52.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccessoryView.xaml.cs",
-              "DocumentMoniker": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\AccessoryView.xaml.cs",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\AccessoryView.xaml.cs",
-              "ToolTip": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\AccessoryView.xaml.cs",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\AccessoryView.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T03:44:44.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserView.xaml.cs",
-              "DocumentMoniker": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\UserView.xaml.cs",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\UserView.xaml.cs",
-              "ToolTip": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\UserView.xaml.cs",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\UserView.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T03:44:26.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AccessoryViewModel.cs",
               "DocumentMoniker": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\ViewModel\\AccessoryViewModel.cs",
               "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\ViewModel\\AccessoryViewModel.cs",
               "ToolTip": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\ViewModel\\AccessoryViewModel.cs",
               "RelativeToolTip": "..\\WPF_ManageCourt\\ViewModel\\AccessoryViewModel.cs",
-              "ViewState": "AgIAAL4AAAAAAAAAAADwv/cAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAABAAAAAAAAAAA9wCMBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T03:38:23.33Z",
               "EditorCaption": ""
