@@ -101,3 +101,4 @@ E:\FPT\FA24\PRN221\Assigment_group\WPF_ManageCourt\bin\Debug\net8.0-windows\Micr
 E:\FPT\FA24\PRN221\Assigment_group\WPF_ManageCourt\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
 E:\FPT\FA24\PRN221\Assigment_group\WPF_ManageCourt\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
 E:\FPT\FA24\PRN221\Assigment_group\WPF_ManageCourt\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\FPT\FA24\PRN221\Assigment_group\WPF_ManageCourt\obj\Debug\net8.0-windows\WPF_ManageCourt.sourcelink.json

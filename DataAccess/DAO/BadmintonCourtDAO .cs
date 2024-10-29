@@ -9,7 +9,9 @@ namespace DataAccess.DAO
     {
         public async Task<List<BadmintonCourt>> GetAllCourtsAsync()
         {
-            return await _context.BadmintonCourts.ToListAsync();
+            return await _context.BadmintonCourts.
+                Include(b=> b.Owner).
+                ToListAsync();
         }
 
         public async Task<BadmintonCourt> GetCourtByIdAsync(int courtId)

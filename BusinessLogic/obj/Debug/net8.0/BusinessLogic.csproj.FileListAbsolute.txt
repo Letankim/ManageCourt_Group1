@@ -17,3 +17,4 @@ E:\FPT\FA24\PRN221\Assigment_group\BusinessLogic\obj\Debug\net8.0\BusinessLogic.
 E:\FPT\FA24\PRN221\Assigment_group\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
 E:\FPT\FA24\PRN221\Assigment_group\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
 E:\FPT\FA24\PRN221\Assigment_group\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+E:\FPT\FA24\PRN221\Assigment_group\BusinessLogic\obj\Debug\net8.0\BusinessLogic.sourcelink.json

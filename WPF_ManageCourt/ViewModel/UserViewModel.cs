@@ -352,7 +352,7 @@ public class UserViewModel : BaseViewModel
             await _userService.UpdateUserAsync(SelectedUser);
             Load();
             ShowSuccessMessage("User updated successfully.");
-            IsUpdateUserDialogOpen = true;
+            IsUpdateUserDialogOpen = false;
             IsAddUserDialogOpen = false;
         }
         catch (Exception ex)
@@ -377,7 +377,7 @@ public class UserViewModel : BaseViewModel
                 await _userService.DeleteUserAsync(SelectedUser.UserId);
                 Load();
                 ShowSuccessMessage("User deleted successfully.");
-                IsUpdateUserDialogOpen = true;
+                IsUpdateUserDialogOpen = false;
                 IsAddUserDialogOpen = false;
             }
             catch (Exception ex)
