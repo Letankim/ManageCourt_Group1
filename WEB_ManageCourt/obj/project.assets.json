@@ -3514,23 +3514,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Users\\ACER\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WEB_ManageCourt\\WEB_ManageCourt.csproj",
+      "projectUniqueName": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WEB_ManageCourt\\WEB_ManageCourt.csproj",
       "projectName": "WEB_ManageCourt",
-      "projectPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WEB_ManageCourt\\WEB_ManageCourt.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WEB_ManageCourt\\obj\\",
+      "projectPath": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WEB_ManageCourt\\WEB_ManageCourt.csproj",
+      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+      "outputPath": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WEB_ManageCourt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3546,17 +3546,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\FPT\\FA24\\PRN221\\Assigment_group\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\BusinessLogic\\BusinessLogic.csproj"
+            "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\BusinessLogic\\BusinessLogic.csproj"
             },
-            "E:\\FPT\\FA24\\PRN221\\Assigment_group\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\DataAccess\\DataAccess.csproj"
+            "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\DataAccess\\DataAccess.csproj"
             },
-            "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\Model.csproj": {
-              "projectPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\Model.csproj"
+            "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\ManageCourt\\Model.csproj": {
+              "projectPath": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\ManageCourt\\Model.csproj"
             },
-            "E:\\FPT\\FA24\\PRN221\\Assigment_group\\Repository\\Repositories.csproj": {
-              "projectPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\Repository\\Repositories.csproj"
+            "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\Repository\\Repositories.csproj": {
+              "projectPath": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\Repository\\Repositories.csproj"
             }
           }
         }
@@ -3600,7 +3600,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

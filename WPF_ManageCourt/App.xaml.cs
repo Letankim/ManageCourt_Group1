@@ -22,7 +22,7 @@ namespace WPF_ManageCourt
 
             ServiceProvider = serviceCollection.BuildServiceProvider();
 
-            var mainWindow = ServiceProvider.GetRequiredService<UserView>();
+            var mainWindow = ServiceProvider.GetRequiredService<AccessoryView>();
             mainWindow.Show();
         }
 
@@ -35,16 +35,23 @@ namespace WPF_ManageCourt
             services.AddTransient<IAccessoryService, AccessoryService>();
 
             services.AddTransient<UserDAO, UserDAO>();
+            services.AddTransient<AccessoryDAO, AccessoryDAO>();
             // Register UserRepository and UserService
             services.AddTransient<IUserRepository, UserRepository>(); 
             services.AddTransient<IUserService, UserService>();
 
+            // Register AccessoryRepository and AccessoryService
+            services.AddTransient<IAccessoryRepository, AccessoryRepository>();
+            services.AddTransient<IAccessoryService, AccessoryService>();
+
             // Register ViewModels
             services.AddTransient<UserViewModel>();
+            services.AddTransient<AccessoryViewModel>();
 
             // Register MainWindow
             services.AddTransient<MainWindow>();
             services.AddTransient<UserView>();
+            services.AddTransient<AccessoryView>();
         }
 
     }

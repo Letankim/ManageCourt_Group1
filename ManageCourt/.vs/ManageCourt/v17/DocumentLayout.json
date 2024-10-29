@@ -1,104 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\",
+  "WorkspaceRootPath": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\ManageCourt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\userview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|d:\\hoctap\\fa24\\prn221\\asm\\managecourt_group1\\wpf_managecourt\\accessoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\utils\\indexconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|d:\\hoctap\\fa24\\prn221\\asm\\managecourt_group1\\wpf_managecourt\\viewmodel\\accessoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|d:\\hoctap\\fa24\\prn221\\asm\\managecourt_group1\\wpf_managecourt\\accessoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\utils\\inversebooltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|d:\\hoctap\\fa24\\prn221\\asm\\managecourt_group1\\wpf_managecourt\\userview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\userview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|d:\\hoctap\\fa24\\prn221\\asm\\managecourt_group1\\wpf_managecourt\\userview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0633C278-5C98-4669-AAFC-E1F6E9E366BA}|..\\BusinessLogic\\BusinessLogic.csproj|d:\\hoctap\\fa24\\prn221\\asm\\managecourt_group1\\businesslogic\\interface\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\utils\\booleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\utils\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0633C278-5C98-4669-AAFC-E1F6E9E366BA}|..\\BusinessLogic\\BusinessLogic.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\businesslogic\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6A4ECC6-A4A6-4465-B918-DD3756675C2C}|Model.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\managecourt\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6A4ECC6-A4A6-4465-B918-DD3756675C2C}|Model.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0633C278-5C98-4669-AAFC-E1F6E9E366BA}|..\\BusinessLogic\\BusinessLogic.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\businesslogic\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0633C278-5C98-4669-AAFC-E1F6E9E366BA}|..\\BusinessLogic\\BusinessLogic.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\businesslogic\\interface\\iaccessoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{588B8F75-E1A5-45C6-A599-99BA2F784B36}|..\\Repository\\Repositories.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{588B8F75-E1A5-45C6-A599-99BA2F784B36}|..\\Repository\\Repositories.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{772FA4BB-E535-4CCF-AE02-6FA8F33F976F}|..\\DataAccess\\DataAccess.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\dataaccess\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6A4ECC6-A4A6-4465-B918-DD3756675C2C}|Model.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\managecourt\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D6A4ECC6-A4A6-4465-B918-DD3756675C2C}|Model.csproj|solutionrelative:model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\utils\\booltostatusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\utils\\passwordboxhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\viewmodel\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\controls\\sidebarcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\controls\\sidebarcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\controls\\navbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\controls\\header.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\controls\\footer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\controls\\navbar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\controls\\header.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51112959-FC39-4036-AD46-24C5CA4D691D}|..\\WPF_ManageCourt\\WPF_ManageCourt.csproj|e:\\fpt\\fa24\\prn221\\assigment_group\\wpf_managecourt\\wpf_managecourt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6A4ECC6-A4A6-4465-B918-DD3756675C2C}|Model.csproj|d:\\hoctap\\fa24\\prn221\\asm\\managecourt_group1\\managecourt\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A4ECC6-A4A6-4465-B918-DD3756675C2C}|Model.csproj|solutionrelative:booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -108,8 +32,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 25,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -124,10 +124,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
@@ -139,413 +135,103 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Model.csproj",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\Model.csproj",
-              "RelativeDocumentMoniker": "Model.csproj",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\Model.csproj",
-              "RelativeToolTip": "Model.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-16T07:01:11.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "XamlReader.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
-              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
-              "ViewState": "AgIAAKQBAAAAAAAAAAASwLUBAAACAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T20:02:06.927Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserView.xaml",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\UserView.xaml",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\UserView.xaml",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\UserView.xaml",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\UserView.xaml",
+              "Title": "AccessoryView.xaml",
+              "DocumentMoniker": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\AccessoryView.xaml",
+              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\AccessoryView.xaml",
+              "ToolTip": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\AccessoryView.xaml",
+              "RelativeToolTip": "..\\WPF_ManageCourt\\AccessoryView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-08T19:51:07.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IndexConverter.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Utils\\IndexConverter.cs",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\Utils\\IndexConverter.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Utils\\IndexConverter.cs",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\Utils\\IndexConverter.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T07:30:54.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InverseBoolToVisibilityConverter.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Utils\\InverseBoolToVisibilityConverter.cs",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\Utils\\InverseBoolToVisibilityConverter.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Utils\\InverseBoolToVisibilityConverter.cs",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\Utils\\InverseBoolToVisibilityConverter.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T08:16:48.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BoolToVisibilityConverter.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Utils\\BoolToVisibilityConverter.cs",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\Utils\\BoolToVisibilityConverter.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Utils\\BoolToVisibilityConverter.cs",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\Utils\\BoolToVisibilityConverter.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T08:12:56.783Z",
+              "WhenOpened": "2024-10-28T07:25:06.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserView.xaml.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\UserView.xaml.cs",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\UserView.xaml.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\UserView.xaml.cs",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\UserView.xaml.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAywEEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T19:51:06.743Z",
+              "Title": "UserView.xaml",
+              "DocumentMoniker": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\UserView.xaml",
+              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\UserView.xaml",
+              "ToolTip": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\UserView.xaml",
+              "RelativeToolTip": "..\\WPF_ManageCourt\\UserView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T07:06:27.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BooleanToVisibilityConverter.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Utils\\BooleanToVisibilityConverter.cs",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\Utils\\BooleanToVisibilityConverter.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Utils\\BooleanToVisibilityConverter.cs",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\Utils\\BooleanToVisibilityConverter.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\ManageCourt\\Booking.cs",
+              "RelativeDocumentMoniker": "Booking.cs",
+              "ToolTip": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\ManageCourt\\Booking.cs",
+              "RelativeToolTip": "Booking.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T07:21:51.826Z",
+              "WhenOpened": "2024-10-28T06:05:23.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserViewModel.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\ViewModel\\UserViewModel.cs",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\ViewModel\\UserViewModel.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\ViewModel\\UserViewModel.cs",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\ViewModel\\UserViewModel.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAAAwwJ4AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T04:12:00.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IAccessoryService.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\BusinessLogic\\Interface\\IAccessoryService.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLogic\\Interface\\IAccessoryService.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\BusinessLogic\\Interface\\IAccessoryService.cs",
-              "RelativeToolTip": "..\\BusinessLogic\\Interface\\IAccessoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T06:51:44.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\BusinessLogic\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLogic\\Service\\UserService.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\BusinessLogic\\Service\\UserService.cs",
-              "RelativeToolTip": "..\\BusinessLogic\\Service\\UserService.cs",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAcwLYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T08:48:32.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "..\\Repository\\UserRepository.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "..\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAYwDEAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T08:48:46.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\MainWindow.xaml",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\MainWindow.xaml",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-08T20:02:52.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\App.xaml.cs",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\App.xaml.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\App.xaml.cs",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwCcAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T19:54:10.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\BusinessLogic\\Interface\\IUserService.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLogic\\Interface\\IUserService.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\BusinessLogic\\Interface\\IUserService.cs",
-              "RelativeToolTip": "..\\BusinessLogic\\Interface\\IUserService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAIA4wBIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T08:23:01.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\Repository\\Interface\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "..\\Repository\\Interface\\IUserRepository.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\Repository\\Interface\\IUserRepository.cs",
-              "RelativeToolTip": "..\\Repository\\Interface\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T06:49:48.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\User.cs",
-              "RelativeDocumentMoniker": "User.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\User.cs",
-              "RelativeToolTip": "User.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T08:21:54.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserDAO.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\DataAccess\\DAO\\UserDAO.cs",
-              "RelativeDocumentMoniker": "..\\DataAccess\\DAO\\UserDAO.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\DataAccess\\DAO\\UserDAO.cs",
-              "RelativeToolTip": "..\\DataAccess\\DAO\\UserDAO.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T09:04:58.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PasswordBoxHelper.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Utils\\PasswordBoxHelper.cs",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\Utils\\PasswordBoxHelper.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Utils\\PasswordBoxHelper.cs",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\Utils\\PasswordBoxHelper.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwB8AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T08:04:16.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BoolToStatusConverter.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Utils\\BoolToStatusConverter.cs",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\Utils\\BoolToStatusConverter.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Utils\\BoolToStatusConverter.cs",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\Utils\\BoolToStatusConverter.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA+wBkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T08:21:11.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BaseModel.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\ViewModel\\BaseModel.cs",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\ViewModel\\BaseModel.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\ViewModel\\BaseModel.cs",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\ViewModel\\BaseModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T06:18:39.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\MainWindow.xaml.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\MainWindow.xaml.cs",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAD4vxEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T19:54:32.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "SideBarControl.xaml",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Controls\\SideBarControl.xaml",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\Controls\\SideBarControl.xaml",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Controls\\SideBarControl.xaml",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\Controls\\SideBarControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-09T06:59:56.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "SideBarControl.xaml.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Controls\\SideBarControl.xaml.cs",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\Controls\\SideBarControl.xaml.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Controls\\SideBarControl.xaml.cs",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\Controls\\SideBarControl.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAWwBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T07:02:32.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Header.xaml",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Controls\\Header.xaml",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\Controls\\Header.xaml",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Controls\\Header.xaml",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\Controls\\Header.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-09T03:45:31.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Footer.xaml",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Controls\\Footer.xaml",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\Controls\\Footer.xaml",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Controls\\Footer.xaml",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\Controls\\Footer.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-09T03:46:33.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "App.xaml",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\App.xaml",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\App.xaml",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\App.xaml",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-08T20:00:38.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Navbar.xaml",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Controls\\Navbar.xaml",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\Controls\\Navbar.xaml",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Controls\\Navbar.xaml",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\Controls\\Navbar.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-09T03:46:11.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Navbar.xaml.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Controls\\Navbar.xaml.cs",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\Controls\\Navbar.xaml.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Controls\\Navbar.xaml.cs",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\Controls\\Navbar.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T03:49:27.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Header.xaml.cs",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Controls\\Header.xaml.cs",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\Controls\\Header.xaml.cs",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\Controls\\Header.xaml.cs",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\Controls\\Header.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T04:23:07.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ResourcePart.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
-              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAjwCcAAAAEAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T20:01:34.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "WPF_ManageCourt.csproj",
-              "DocumentMoniker": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\WPF_ManageCourt.csproj",
-              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\WPF_ManageCourt.csproj",
-              "ToolTip": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\WPF_ManageCourt\\WPF_ManageCourt.csproj",
-              "RelativeToolTip": "..\\WPF_ManageCourt\\WPF_ManageCourt.csproj",
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\BusinessLogic\\Interface\\IBookingService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Interface\\IBookingService.cs",
+              "ToolTip": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\BusinessLogic\\Interface\\IBookingService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Interface\\IBookingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-09T03:58:57.619Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:04:52.842Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccessoryView.xaml.cs",
+              "DocumentMoniker": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\AccessoryView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\AccessoryView.xaml.cs",
+              "ToolTip": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\AccessoryView.xaml.cs",
+              "RelativeToolTip": "..\\WPF_ManageCourt\\AccessoryView.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:44:44.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserView.xaml.cs",
+              "DocumentMoniker": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\UserView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\UserView.xaml.cs",
+              "ToolTip": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\UserView.xaml.cs",
+              "RelativeToolTip": "..\\WPF_ManageCourt\\UserView.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:44:26.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccessoryViewModel.cs",
+              "DocumentMoniker": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\ViewModel\\AccessoryViewModel.cs",
+              "RelativeDocumentMoniker": "..\\WPF_ManageCourt\\ViewModel\\AccessoryViewModel.cs",
+              "ToolTip": "D:\\hoctap\\FA24\\PRN221\\Asm\\ManageCourt_Group1\\WPF_ManageCourt\\ViewModel\\AccessoryViewModel.cs",
+              "RelativeToolTip": "..\\WPF_ManageCourt\\ViewModel\\AccessoryViewModel.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAADwv/cAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:38:23.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 323,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
