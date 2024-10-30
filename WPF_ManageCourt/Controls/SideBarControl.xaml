@@ -12,6 +12,6 @@
         <Button Content="2FA" Background="{StaticResource BackgroundMainButton}" Foreground="White" Margin="5"/>
         <Button Content="Đọc mail IMAP" Background="{StaticResource BackgroundMainButton}" Foreground="White" Margin="5"/>
         <Button Content="Quy trình tự động" Background="{StaticResource BackgroundMainButton}" Foreground="White" Margin="5"/>
-        <Button Content="Logs" Background="{StaticResource BackgroundMainButton}" Foreground="White" Margin="5"/>
+        <Button Content="Chọn lịch" Background="{StaticResource BackgroundMainButton}" Foreground="White" Margin="5"/>
     </StackPanel>
 </UserControl>

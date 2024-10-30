@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\FPT\\FA24\\PRN221\\Assigment_group\\BusinessLogic\\BusinessLogic.csproj": {}
+    "G:\\PRN221\\Project_PRN\\BusinessLogic\\BusinessLogic.csproj": {}
   },
   "projects": {
-    "E:\\FPT\\FA24\\PRN221\\Assigment_group\\BusinessLogic\\BusinessLogic.csproj": {
+    "G:\\PRN221\\Project_PRN\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "G:\\PRN221\\Project_PRN\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\BusinessLogic\\BusinessLogic.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\BusinessLogic\\obj\\",
+        "projectPath": "G:\\PRN221\\Project_PRN\\BusinessLogic\\BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "G:\\PRN221\\Project_PRN\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\Model.csproj": {
-                "projectPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\Model.csproj"
+              "G:\\PRN221\\Project_PRN\\ManageCourt\\Model.csproj": {
+                "projectPath": "G:\\PRN221\\Project_PRN\\ManageCourt\\Model.csproj"
               },
-              "E:\\FPT\\FA24\\PRN221\\Assigment_group\\Repository\\Repositories.csproj": {
-                "projectPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\Repository\\Repositories.csproj"
+              "G:\\PRN221\\Project_PRN\\Repository\\Repositories.csproj": {
+                "projectPath": "G:\\PRN221\\Project_PRN\\Repository\\Repositories.csproj"
               }
             }
           }
@@ -82,24 +82,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\FPT\\FA24\\PRN221\\Assigment_group\\DataAccess\\DataAccess.csproj": {
+    "G:\\PRN221\\Project_PRN\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "G:\\PRN221\\Project_PRN\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\DataAccess\\obj\\",
+        "projectPath": "G:\\PRN221\\Project_PRN\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "G:\\PRN221\\Project_PRN\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -115,8 +115,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\Model.csproj": {
-                "projectPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\Model.csproj"
+              "G:\\PRN221\\Project_PRN\\ManageCourt\\Model.csproj": {
+                "projectPath": "G:\\PRN221\\Project_PRN\\ManageCourt\\Model.csproj"
               }
             }
           }
@@ -151,24 +151,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\Model.csproj": {
+    "G:\\PRN221\\Project_PRN\\ManageCourt\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\Model.csproj",
+        "projectUniqueName": "G:\\PRN221\\Project_PRN\\ManageCourt\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\Model.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\obj\\",
+        "projectPath": "G:\\PRN221\\Project_PRN\\ManageCourt\\Model.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "G:\\PRN221\\Project_PRN\\ManageCourt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -238,24 +238,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\FPT\\FA24\\PRN221\\Assigment_group\\Repository\\Repositories.csproj": {
+    "G:\\PRN221\\Project_PRN\\Repository\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\Repository\\Repositories.csproj",
+        "projectUniqueName": "G:\\PRN221\\Project_PRN\\Repository\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\Repository\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\Repository\\obj\\",
+        "projectPath": "G:\\PRN221\\Project_PRN\\Repository\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "G:\\PRN221\\Project_PRN\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -271,11 +271,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\FPT\\FA24\\PRN221\\Assigment_group\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\DataAccess\\DataAccess.csproj"
+              "G:\\PRN221\\Project_PRN\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "G:\\PRN221\\Project_PRN\\DataAccess\\DataAccess.csproj"
               },
-              "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\Model.csproj": {
-                "projectPath": "E:\\FPT\\FA24\\PRN221\\Assigment_group\\ManageCourt\\Model.csproj"
+              "G:\\PRN221\\Project_PRN\\ManageCourt\\Model.csproj": {
+                "projectPath": "G:\\PRN221\\Project_PRN\\ManageCourt\\Model.csproj"
               }
             }
           }
@@ -310,7 +310,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -7,6 +7,7 @@ using System;
 using System.Windows;
 using WPF_ManageCourt.ViewModel;
 using DataAccess.DAO;
+using WPF_ManageCourt.ScheduleCourt;
 
 namespace WPF_ManageCourt
 {
@@ -22,7 +23,9 @@ namespace WPF_ManageCourt
 
             ServiceProvider = serviceCollection.BuildServiceProvider();
 
-            var mainWindow = ServiceProvider.GetRequiredService<UserView>();
+            /*var mainWindow = ServiceProvider.GetRequiredService<UserView>();
+            mainWindow.Show();*/
+            var mainWindow = ServiceProvider.GetRequiredService<ScheduleCourtManage>();
             mainWindow.Show();
         }
 
@@ -34,17 +37,23 @@ namespace WPF_ManageCourt
             services.AddTransient<ICourtScheduleService, CourtScheduleService>();
             services.AddTransient<IAccessoryService, AccessoryService>();
 
+            services.AddTransient<BadmintonCourtDAO>();
+            services.AddTransient<CourtScheduleDAO>();
             services.AddTransient<UserDAO, UserDAO>();
             // Register UserRepository and UserService
             services.AddTransient<IUserRepository, UserRepository>(); 
             services.AddTransient<IUserService, UserService>();
+            services.AddTransient<IBadmintonCourtRepository, BadmintonCourtRepository>();
+            services.AddTransient<ICourtScheduleRepository, CourtScheduleRepository>();
 
             // Register ViewModels
             services.AddTransient<UserViewModel>();
+            services.AddTransient<ScheduleCourtModel>();
 
             // Register MainWindow
             services.AddTransient<MainWindow>();
             services.AddTransient<UserView>();
+            services.AddTransient<ScheduleCourtManage>();
         }
 
     }

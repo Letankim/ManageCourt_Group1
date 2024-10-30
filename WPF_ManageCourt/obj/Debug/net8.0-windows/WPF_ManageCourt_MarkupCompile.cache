@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\FPT\FA24\PRN221\Assigment_group\WPF_ManageCourt\obj\Debug\net8.0-windows\
+G:\PRN221\Project_PRN\WPF_ManageCourt\obj\Debug\net8.0-windows\
 WPF_ManageCourt
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-E:\FPT\FA24\PRN221\Assigment_group\WPF_ManageCourt\App.xaml
-6970483899
+G:\PRN221\Project_PRN\WPF_ManageCourt\App.xaml
+8-2091704955
 
-17-1190465891
-2551048380306
-Controls\Footer.xaml;Controls\Header.xaml;Controls\Navbar.xaml;Controls\SideBarControl.xaml;MainWindow.xaml;UserView.xaml;
+22320745223
+255-432821739
+Controls\Footer.xaml;Controls\Header.xaml;Controls\Navbar.xaml;Controls\SideBarControl.xaml;MainWindow.xaml;ScheduleCourtView.xaml;ScheduleCourt\ScheduleCourtManage.xaml;UserView.xaml;
 
 False
 

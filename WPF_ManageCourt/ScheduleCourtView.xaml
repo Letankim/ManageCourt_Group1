@@ -1,0 +1,43 @@
+﻿<Window 
+        x:Class="WPF_ManageCourt.ScheduleCourtView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:helper="clr-namespace:WPF_ManageCourt.Utils"
+        xmlns:local="clr-namespace:WPF_ManageCourt"
+        Title="Booking Court" Height="350" Width="400">
+    <Window.Resources>
+        <helper:BooleanToAvailabilityConverter x:Key="BooleanToAvailabilityConverter"/>
+        <helper:AvailabilityColorConverter x:Key="AvailabilityColorConverter"/>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <!-- Label for Date Selection -->
+        <Label Content="Select Date:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+
+        <!-- DatePicker for selecting date -->
+        <DatePicker Name="DatePicker" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,10,0,0" Width="200"/>
+
+        <!-- Label for Court Selection -->
+        <Label Content="Select Court:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,50,0,0"/>
+
+        <!-- ComboBox for selecting available courts -->
+        <ComboBox Name="CourtComboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,50,0,0" Width="200"
+                  IsSynchronizedWithCurrentItem="True">
+            <DataTemplate>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="{Binding BadmintonCourt}" Margin="0,0,5,0"/>
+                    <TextBlock Text="{Binding IsAvailable, Converter={StaticResource BooleanToAvailabilityConverter}}" 
+                           Foreground="{Binding IsAvailable, Converter={StaticResource AvailabilityColorConverter}}"/>
+                </StackPanel>
+            </DataTemplate>
+        </ComboBox>
+
+        <!-- Button for booking court -->
+        <Button Content="Book Court" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,100,0,0" Width="200" Click="BookCourt_Click"/>
+
+        <!-- TextBlock for displaying confirmation -->
+        <TextBlock Name="ConfirmationText" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10,150,10,0" TextAlignment="Center" FontSize="14" TextWrapping="Wrap"/>
+    </Grid>
+</Window>

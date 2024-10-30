@@ -19,6 +19,12 @@
     <Compile Update="Controls\SideBarControl.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="ScheduleCourtView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ScheduleCourt\ScheduleCourtManage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="UserView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -34,6 +40,12 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ScheduleCourtView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ScheduleCourt\ScheduleCourtManage.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="UserView.xaml">
